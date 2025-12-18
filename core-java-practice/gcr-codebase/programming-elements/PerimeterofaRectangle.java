@@ -4,7 +4,7 @@ class Main {
         Scanner sc=new Scanner(System.in);
         int length=sc.nextInt();
         int breadth = sc.nextInt();
-        // calculate Kilometers
+        // calculate perimeter
         System.out.println(2*(length + breadth));
     }
 }
