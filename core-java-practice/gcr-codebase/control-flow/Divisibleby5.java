@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class DivisibleByFive {
+public class Divisibleby5 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
