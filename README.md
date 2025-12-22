@@ -9,3 +9,7 @@
 
      20-Dec-2025 (Saturday) : Solved arrays and scenario based problems and submitted.
 
+2. Week 2 : 
+     22-Dec-2025 (Monday) :  Studied Strings and solved string practice problems Level 1, 2, 3 and solved one leetcode problem
+
+
