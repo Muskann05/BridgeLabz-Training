@@ -5,15 +5,15 @@ public class BMIFitnessTracker {
 
         Scanner scanner = new Scanner(System.in);
 
-        // Take height input (in meters)
+        // Take height  (in meters)
         System.out.print("Enter height in meters: ");
         double height = scanner.nextDouble();
 
-        // Take weight input (in kilograms)
+        // Take weight  (in kilograms)
         System.out.print("Enter weight in kilograms: ");
         double weight = scanner.nextDouble();
 
-        // Calculate BMI using formula
+        // Calculate BMI 
         double bmi = weight / (height * height);
 
         // print BMI value
