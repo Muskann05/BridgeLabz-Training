@@ -12,4 +12,6 @@
 2. Week 2 : 
      22-Dec-2025 (Monday) :  Studied Strings and solved string practice problems Level 1, 2, 3 and solved one leetcode problem
 
+     23-Dec-2025 (Tuesday) : Give the review in which  the code of  AddOneToArray and some theory based question has been asked. 
+
 
