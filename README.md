@@ -20,10 +20,18 @@
      [Scenario based](https://github.com/Muskann05/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
 
 2. Week 2 : 
-     22-Dec-2025 (Monday) :  Studied Strings and solved string practice problems Level 1, 2, 3 and solved one leetcode problem
+     22-Dec-2025 (Monday) :  Studied Strings and solved and submitted string practice problems Level 1, 2, 3 and solved one leetcode problem
      [Strings](https://github.com/Muskann05/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
 
-     23-dec-2025(Tuesday) : Give the review in which AddOneToArray and some thoery questions has been asked.
+     23-Dec-2025 (Tuesday) : Give the review in which AddOneToArray and some thoery questions has been asked.
      [Review](https://github.com/Muskann05/BridgeLabz-Training/blob/review/review/AddOneToArray.java)
+
+     24-Dec-2025 (Wednesday) : Studied Methods and solved Level 1 , Level 2.
+
+     25-Dec-2025 (Thursday) : Solved Level 3 of method problems and submitted.
+     [Methods](https://github.com/Muskann05/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
+
+     26-Dec-2025 (Friday) : Solved and submitted extra string problems.
+     [Extras]()
 
 
