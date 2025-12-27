@@ -32,6 +32,8 @@
      [Methods](https://github.com/Muskann05/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
 
      26-Dec-2025 (Friday) : Solved and submitted extra string problems.
-     [Extras]()
+     [Extras](https://github.com/Muskann05/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras)
+
+     27-Dec-2025 (Saturday) : Solved and submitted leetcode problem.
 
 
