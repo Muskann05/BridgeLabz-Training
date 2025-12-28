@@ -36,4 +36,6 @@
 
      27-Dec-2025 (Saturday) : Solved and submitted leetcode problem.
 
+     28-12-2025 (Sunday) : Solved Scenario based problems and leetcode problem.
+
 
