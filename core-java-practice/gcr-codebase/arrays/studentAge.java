@@ -1,5 +1,5 @@
 import java.util.*;
-class Main {
+public class StudentAge {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         // take input of array with age of students
