@@ -53,7 +53,6 @@ public class SnakeAndLadder {
 
             /* UC 6: Print position after every dice roll */
             System.out.println("Current Position: " + position);
-            System.out.println("--------------------------------");
         }
 
         /* UC 6: Report dice count */
