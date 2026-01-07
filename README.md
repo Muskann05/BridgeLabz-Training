@@ -1,3 +1,4 @@
+BridgeLabz-Training
 
 ![Structure of Git Hub](image.png)
 
@@ -62,7 +63,6 @@
       05-01-2026 (Monday) : Solved and submitted Scenario based problems.[Scenario based](https://github.com/Muskann05/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 
       06-01-2026 (Tuesday) : Solved and submitted Encapsulation , polymorphism , interface and abstract classes problems.[oops-pillars](https://github.com/Muskann05/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/oops-pillars)
-
 
 
 
