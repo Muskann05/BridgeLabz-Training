@@ -2,9 +2,10 @@ BridgeLabz-Training
 
 ![Structure of Git Hub](image.png)
 
+
 1. Week 1 : Getting Started with Java basics and make core-java-practice branch.
 
-     16-Dec-2025 (Tuesday) : Installed and set up java Solved and submitted basic practice problems and leetcode problems.
+     16-Dec-2025 (Tuesday) : Installed and set up java and Solved and submitted basic practice problems and leetcode problems.
      [Leetcode](https://github.com/Muskann05/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
 
      17-Dec-2025 (Wednesday) : Studied the history and features of java. Solved elementary problems.
@@ -20,6 +21,7 @@ BridgeLabz-Training
      [Arrays](https://github.com/Muskann05/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
      and
      [Scenario based](https://github.com/Muskann05/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+
 
 2. Week 2 : Started With String and Scenario based problems.
 
@@ -41,13 +43,17 @@ BridgeLabz-Training
 
      28-12-2025 (Sunday) : Solved Scenario based problems and leetcode problem.[Scenario based](https://github.com/Muskann05/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
 
+
 3. Week 3 : Solved Scenario based and Started with object oriented programming.
 
      29-12-2025 (Monday) : Solved Scenario based problems and Employee wages problems and Submitted it.[Scenario based](https://github.com/Muskann05/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
 
      30-12-2025 (Tuesday) : Solved and submitted Line comparison , Snake and Ladder scenario problems and read material of oops.[Line Comparison](https://github.com/Muskann05/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/LineComparison.java) and [Snake and Ladder](https://github.com/Muskann05/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/SnakeAndLadder.java)
 
-     31-12-2025 (Wednesday) : Solved and submitted Java class and object problems and  also solved and submitted Constructors , access-modifiers and instance problems .[Class and Object](https://github.com/Muskann05/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-object) and [Constructors](https://github.com/Muskann05/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructors) and [Access-Modifiers](https://github.com/Muskann05/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/access-modifiers) and [Instance](https://github.com/Muskann05/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/instance)
+     31-12-2025 (Wednesday) : Solved and submitted Java class and object problems and  also solved and submitted Constructors , access-modifiers and instance problems .[Class and Object](https://github.com/Muskann05/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-object)
+     [Constructors](https://github.com/Muskann05/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructors)
+     [Access-Modifiers](https://github.com/Muskann05/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/access-modifiers)
+     [Instance](https://github.com/Muskann05/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/instance)
 
      01-01-2026 (Thursday) :  Solved and submitted this-static-final keywords problems.[This-Static-Final](https://github.com/Muskann05/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/this-static-final)
 
@@ -58,12 +64,52 @@ BridgeLabz-Training
 
      04-01-2026 (Sunday) : Solved and submitted Scenario based problems.
 
+
 4. Week 4 : Read about oops-pillars and Started with Data Structures and Algorithms.
 
-      05-01-2026 (Monday) : Solved and submitted Scenario based problems.[Scenario based](https://github.com/Muskann05/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+      05-01-2026 (Monday) : Solved and submitted oops Scenario based problems.[Scenario based](https://github.com/Muskann05/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 
       06-01-2026 (Tuesday) : Solved and submitted Encapsulation , polymorphism , interface and abstract classes problems.[oops-pillars](https://github.com/Muskann05/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/oops-pillars)
 
+      07-01-2026 (Wednesday) : Solved oops scenario-based problems.[Cab Booking](https://github.com/Muskann05/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/cab-booking)
+
+      [Online Banking System](https://github.com/Muskann05/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/online-banking-system) . Studied introduction of Data Structure and Linked List and solved problems.
+
+      08-01-2026 (Thursday) : Solved and Submitted Linked List problems.[Linked List](https://github.com/Muskann05/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linked-list)
+
+      09-01-2026 (Friday) : Studied material of Stack, Queue, HashMap and Hashing function. Solved oops scenario based problems of Object Oriented programming.
+
+      10-01-2026 (Saturday) : Solved and submitted oops Scenario based problems and Leetcode problems.
+
+      Scenario based :
+      [Hospital Patient Management System](https://github.com/Muskann05/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/hospital-patient-management-system)
+      [Vehicle Rental Application](https://github.com/Muskann05/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/vehicle-rental-system)
+      [Flight Booking System](https://github.com/Muskann05/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/flight-booking-system)
+      
+      leetcode : 
+      [Leetcode](https://github.com/Muskann05/BridgeLabz-Training/tree/oops-practice/oops-practice/leet-code-codebase)  
+
+
+     11-01-2026 (Sunday) : Solved  Two leetcode Problems and Submit. 
+     [Missing Number](https://github.com/Muskann05/BridgeLabz-Training/blob/oops-practice/oops-practice/leet-code-codebase/MissingNumber.java) 
+     [Single Number](https://github.com/Muskann05/BridgeLabz-Training/blob/oops-practice/oops-practice/leet-code-codebase/SingleNumber.java)
+
+5. Week 5 : Solved Scenario based and start with Data Structure problems.
+
+      12-01-2026 (Monday) : Solved Leetcode problem
+      [Add Digit](https://github.com/Muskann05/BridgeLabz-Training/blob/oops-practice/oops-practice/leet-code-codebase/AddDigit.java)
+
+      13-01-2026 (Tuesday) : Submit oops Scenario based problems.
+      [Scenario based](https://github.com/Muskann05/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+      14-01-2026 (Wednesday) : 
+
+
+
+
+
+     
+ 
 
 
 
