@@ -1,6 +1,107 @@
-BridgeLabz-Training
+# BridgeLabz-Training
 
-![Structure of Git Hub](image.png)
+Structure of GitHub
+
+BridgeLabz-Training
+│
+├── core-java-practice    (branch & folder)
+│   │
+│   ├── gcr-codebase
+│   |   ├── arrays
+│   │   ├── control-flow
+│   │   ├── extras
+│   │   ├── methods
+│   │   ├── programming-elements
+│   |   └── strings
+│   │
+│   ├── scenario-based
+│   │
+│   └── leet-code-codebase
+|
+├── oops-practice    (branch & folder)
+│   │
+│   ├── gcr-codebase
+|   |   ├── access-modifier
+|   |   ├── class-object
+|   |   ├── constructor
+│   │   ├── inheritance
+│   │   ├── instance
+|   |   ├── object-modelling
+|   |   ├── oops-pillars
+│   │   └── static-this-final-instanceOf
+│   │
+│   ├── scenario-based
+│   │
+│   └── leet-code-codebase
+│
+├── dsa-practice    (branch & folder)
+│   │
+│   ├── gcr-codebase
+|   |   ├── hash-map-hash-function
+|   |   ├── linked-list
+|   |   ├── sorting
+|   |   └── stack-queue
+│   │
+│   ├── scenario-based
+│   │
+│   └── leet-code-codebase
+│
+├── reviews    (branch)
+
+
+Core-java-practice -> Scenario-based :
+
+1. BMI Fitness Tracker
+2. Bus Route
+3. Digital Watch
+4. Easy Coffee Counter
+5. Election Booth
+6. Employee Wages
+7. Lucky Festival
+8. Line Comparison
+9. Metro Smart Card
+10. Movie Ticket
+11. Rohan Library
+12. Sandeep Fitness
+13. Snake and Ladder
+
+Oops-practice -> Scenario-based :
+
+
+1. Cab Booking
+2. Digital Wallet System
+3. E Commerce Order Management
+4. Event Manager System
+5. Flight Booking System
+6. Hospital Management System
+7. Hospital Patient Management System
+8. Hotel Reservation System
+9. Inventory Management System
+10. Library Management System
+11. Online Banking System
+12. Online Examination System
+13. Online Voting System
+14. Smart Shelf System
+15. Student Course Registration System 
+16. Traffic Manager System
+17. Vehicle Rental System
+18. Bank Account 
+19. Cafeteria Menu
+20. Edu quiz
+21. Invoice Generate
+22. Invoice Generator
+23. Library Management
+24. Library Management System
+25. Math Utility
+26. Phone Contact Organizer
+27. Quiz Result Processor
+28. Sentence Formatter
+29. Student Report Generator
+30. Student Score
+31. Student Score Analyzer
+32. Temperature Analyzer
+33. Text Analyzer 
+
 
 
 1. Week 1 : Getting Started with Java basics and make core-java-practice branch.
@@ -101,8 +202,22 @@ BridgeLabz-Training
 
       13-01-2026 (Tuesday) : Submit oops Scenario based problems.
       [Scenario based](https://github.com/Muskann05/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+      
+      Solved some HashMap problems also.
 
-      14-01-2026 (Wednesday) : 
+      14-01-2026 (Wednesday) : Solved and Submit Stack-Queue and HashMap-HashFunction problems.
+
+      [Stack-Queue](https://github.com/Muskann05/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stack-queue)
+
+      [HashMap-HashFunction](https://github.com/Muskann05/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/hash-map-hash-function)
+
+      15-01-2026 (Thursday) : Read material of Sorting and solved some Sorting problems.
+
+      16-01-2026 (Friday) : Solved and Submit Sorting problems.
+      [Sorting](https://github.com/Muskann05/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting)
+
+      
+
 
 
 
