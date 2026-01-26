@@ -1,4 +1,4 @@
-// Use Case - 1 : Contact Class
+// Use case 1 
 public class Contacts {
     private String firstName;
     private String lastName;
@@ -19,16 +19,48 @@ public class Contacts {
         this.zip = zip;
         this.phoneNumber = phoneNumber;
         this.email = email;
-
     }
 
-    // display Contact details
+    // Getters
+    public String getFirstName() {
+        return firstName;
+    }
+
+    // Setters for UC3 (Edit)
+    public void setAddress(String address) {
+        this.address = address;
+    }
+
+    public void setCity(String city) {
+        this.city = city;
+    }
+
+    public void setState(String state) {
+        this.state = state;
+    }
+
+    public void setZip(String zip) {
+        this.zip = zip;
+    }
+
+    public void setPhoneNumber(String phoneNumber) {
+        this.phoneNumber = phoneNumber;
+    }
+
+    public void setEmail(String email) {
+        this.email = email;
+    }
+
+    // Display Contact details
     public void displayContacts(){
         System.out.println(" Contact Details ");
-        System.out.println(" First Name : " + firstName + " , Last Name : " + lastName + " , Address : " + address + " , City : " + city + " , state : " + state + ",  Zip : " + zip + " , Phone Number : " + phoneNumber + " , Email : " + email);
+        System.out.println(" First Name : " + firstName + 
+                           " , Last Name : " + lastName + 
+                           " , Address : " + address + 
+                           " , City : " + city + 
+                           " , State : " + state + 
+                           " , Zip : " + zip + 
+                           " , Phone Number : " + phoneNumber + 
+                           " , Email : " + email);
     }
-
-
-
-    
 }
