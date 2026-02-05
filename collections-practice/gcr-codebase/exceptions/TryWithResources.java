@@ -1,7 +1,7 @@
 import java.io.*;
 public class TryWithResources {
     public static void main(String[] args) {
-        try (BufferedReader br = new BufferedReader(new FileReader("input.txt"))) {
+        try (BufferedReader br = new BufferedReader(new FileReader("C:\\BridgeLabz-Training\\collections-practice\\gcr-codebase\\exceptions\\input.txt"))) {
             String line = br.readLine();
             System.out.println(line);
         } catch (IOException e) {

@@ -2,7 +2,7 @@ import java.io.*;
 public class CheckedException {
     public static void main(String[] args) {
         try {
-            BufferedReader br = new BufferedReader(new FileReader("input.txt"));
+            BufferedReader br = new BufferedReader(new FileReader("C:\\BridgeLabz-Training\\collections-practice\\gcr-codebase\\exceptions\\input.txt"));
             String line;
             while ((line = br.readLine()) != null) {
                 System.out.println(line);
