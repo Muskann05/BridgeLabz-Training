@@ -11,7 +11,7 @@ class Product {
         this.discount = discount;
     }
     public String toString() {
-        return name + " | Price: " + price + " | Rating: " + rating + " | Discount: " + discount;
+        return name + " Price: " + price + " Rating: " + rating + " Discount: " + discount;
     }
 }
 public class EcommerceSorting {

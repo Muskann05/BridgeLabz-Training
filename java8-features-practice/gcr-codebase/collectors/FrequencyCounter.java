@@ -11,6 +11,6 @@ public class FrequencyCounter {
                 ));
         System.out.println("Word frequency:");
         wordCount.forEach((word, count) ->
-                System.out.println(word + " -> " + count));
+                System.out.println(word + " : " + count));
     }
 }
