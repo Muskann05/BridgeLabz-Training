@@ -1,0 +1,39 @@
+import java.util.*;
+import java.util.stream.Collectors;
+class Employee {
+    private String name;
+    private String department;
+    private double salary;
+    public Employee(String name, String department, double salary) {
+        this.name = name;
+        this.department = department;
+        this.salary = salary;
+    }
+    public String getDepartment() {
+        return department;
+    }
+    public double getSalary() {
+        return salary;
+    }
+}
+public class EmployeeSalary {
+    public static void main(String[] args) {
+        List<Employee> employees = Arrays.asList(
+                new Employee("Muskan", "IT", 50000),
+                new Employee("Muskann", "HR", 40000),
+                new Employee("Muskaan", "IT", 55000),
+                new Employee("Musskan", "Finance", 60000),
+                new Employee("Muskkan", "HR", 42000)
+        );
+
+        Map<String, Double> avgSalaryByDept = employees.stream()
+                .collect(Collectors.groupingBy(
+                        Employee::getDepartment,
+                        Collectors.averagingDouble(Employee::getSalary)
+                ));
+
+        System.out.println("Average salary by department:");
+        avgSalaryByDept.forEach((dept, avgSalary) ->
+                System.out.println(dept + " -> ₹" + avgSalary));
+    }
+}
