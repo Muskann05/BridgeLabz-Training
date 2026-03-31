@@ -1,0 +1,9 @@
+public class AssignmentCourse extends CourseType {
+    public AssignmentCourse(String courseName, int credits) {
+        super(courseName, credits);
+    }
+    @Override
+    public String getEvaluationType() {
+        return "Assignment-Based";
+    }
+}
