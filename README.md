@@ -18,7 +18,7 @@ It includes structured practice across multiple domains of Java development, DSA
 🏗️ System Design Basics
 
 📂 Repository Structure
-
+```text
 BridgeLabz-Training
 │
 ├── core-java-practice (branch)
@@ -116,6 +116,7 @@ BridgeLabz-Training
 ├── reviews (branch)
 │
 └── README.md (main branch)
+```
 
 🛠️ Tools & Technologies Used
 💻 Eclipse IDE
