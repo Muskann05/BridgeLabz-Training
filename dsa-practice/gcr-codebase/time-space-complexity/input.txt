@@ -1,2 +1,0 @@
-java is a oops oriented language
-java is popular
