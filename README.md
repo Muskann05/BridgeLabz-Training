@@ -6,6 +6,7 @@ This repository showcases my daily learning journey and hands-on practice during
 
 It includes structured practice across multiple domains of Java development, DSA, and system-level concepts, with real-world problem-solving.
 
+```text
 📚 Tech Stack & Concepts
 ☕ Core Java
 🧠 Object-Oriented Programming (OOPs)
@@ -16,6 +17,7 @@ It includes structured practice across multiple domains of Java development, DSA
 🔄 Multi-threading
 🗄️ JDBC & DBMS
 🏗️ System Design Basics
+```
 
 📂 Repository Structure
 ```text
