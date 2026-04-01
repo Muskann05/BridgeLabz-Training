@@ -1,6 +1,6 @@
-🚀 BridgeLabz Training Journey
+#🚀 BridgeLabz Training Journey
 
-👩‍💻 About This Repository
+##👩‍💻 About This Repository
 
 This repository showcases my daily learning journey and hands-on practice during the BridgeLabz Training Program.
 
